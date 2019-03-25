@@ -4,5 +4,5 @@ repository
 
 Hello
 
-my name is TJ and im trying to learn the basics of programing 
-the CDN in my name means Canadian
+My name is TJ and im trying to learn the basics of programming 
+The CDN in my name means Canadian
